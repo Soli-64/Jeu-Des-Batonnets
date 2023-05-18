@@ -1,6 +1,5 @@
 import { createElement } from './src/scripts/utils.js';
 import { gameLauncher} from './src/scripts/game.js'
-//import './src/style.scss';
 
 document.querySelector('#start').addEventListener('click', () => {
     document.querySelector('.main-win').classList.add('invisible')
