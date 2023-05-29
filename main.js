@@ -1,3 +1,4 @@
+import './src/styles.scss'
 import { createElement } from './src/scripts/utils.js';
 import { gameLauncher} from './src/scripts/game.js'
 
